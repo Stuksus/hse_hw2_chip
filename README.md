@@ -1,7 +1,7 @@
 # hse_hw2_chip
 
 ##
-Colab: https://colab.research.google.com/drive/1COIcm4-tIkMN9WA_xGqSEdisAAAr6Tjx?usp=sharing
+Colab: https://colab.research.google.com/drive/1IYoUTnLsfGb62W7Lz7ovgjY1_MwIvoAY?usp=sharing
 ## FastQC
 
 ENCFF019SLS
