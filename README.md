@@ -1,5 +1,7 @@
 # hse_hw2_chip
 
+##
+Colab: https://colab.research.google.com/drive/1COIcm4-tIkMN9WA_xGqSEdisAAAr6Tjx?usp=sharing
 ## FastQC
 
 ENCFF019SLS
@@ -22,5 +24,6 @@ ENCFF411GHV
 <img width="1244" alt="Screenshot 2022-03-10 at 22 42 53" src="https://user-images.githubusercontent.com/30021669/157742196-92acdcb5-323b-4e02-ab4e-45a7aaa3a628.png">
 <img width="1281" alt="Screenshot 2022-03-10 at 22 43 10" src="https://user-images.githubusercontent.com/30021669/157742254-23595c60-1c6c-4e53-aab1-652bc894fc64.png">
 
+## Статистика
 <img width="822" alt="Screenshot 2022-03-10 at 22 43 38" src="https://user-images.githubusercontent.com/30021669/157742333-470574da-246e-40fb-bed7-b23e1da42d3f.png">
 
